@@ -34,7 +34,7 @@ Este repositório contém um jogo de plataforma 2D desenvolvido com Unity e C#. 
 - Visual Studio ou outro editor de código compatível com C#.
 
 ## Como Jogar
-
+([Clique aqui](https://www.file.io)) Baixe e Jogue.
 
 ## Prints das Fases
 
